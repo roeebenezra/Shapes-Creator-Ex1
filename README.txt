@@ -2,8 +2,8 @@ README
 
 Project: ex01.
 
-Made by: 1)Name: danielyo, ID: 322017518.
-	     2)Name: roibe,    ID: 206123994.
+Made by: daniel yosef  322017518.
+	 Roee Ben Ezra 206123994.
 
 This project prints different shapes, and calculates their area, hight, perimeter, 
 center and length according to vertacise we give it.
